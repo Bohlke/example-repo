@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class SandBox {
+public class SandBox {
+
+    public static void main(String[] args) {
+
+    }
+
 }
